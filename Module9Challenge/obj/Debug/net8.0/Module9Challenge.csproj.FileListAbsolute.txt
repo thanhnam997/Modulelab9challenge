@@ -1,0 +1,15 @@
+/workspaces/Modulelab9challenge/Module9Challenge/obj/Debug/net8.0/Module9Challenge.GeneratedMSBuildEditorConfig.editorconfig
+/workspaces/Modulelab9challenge/Module9Challenge/obj/Debug/net8.0/Module9Challenge.AssemblyInfoInputs.cache
+/workspaces/Modulelab9challenge/Module9Challenge/obj/Debug/net8.0/Module9Challenge.AssemblyInfo.cs
+/workspaces/Modulelab9challenge/Module9Challenge/obj/Debug/net8.0/Module9Challenge.csproj.CoreCompileInputs.cache
+/workspaces/Modulelab9challenge/Module9Challenge/obj/Debug/net8.0/Module9Challenge.sourcelink.json
+/workspaces/Modulelab9challenge/Module9Challenge/bin/Debug/net8.0/Module9Challenge
+/workspaces/Modulelab9challenge/Module9Challenge/bin/Debug/net8.0/Module9Challenge.deps.json
+/workspaces/Modulelab9challenge/Module9Challenge/bin/Debug/net8.0/Module9Challenge.runtimeconfig.json
+/workspaces/Modulelab9challenge/Module9Challenge/bin/Debug/net8.0/Module9Challenge.dll
+/workspaces/Modulelab9challenge/Module9Challenge/bin/Debug/net8.0/Module9Challenge.pdb
+/workspaces/Modulelab9challenge/Module9Challenge/obj/Debug/net8.0/Module9Challenge.dll
+/workspaces/Modulelab9challenge/Module9Challenge/obj/Debug/net8.0/refint/Module9Challenge.dll
+/workspaces/Modulelab9challenge/Module9Challenge/obj/Debug/net8.0/Module9Challenge.pdb
+/workspaces/Modulelab9challenge/Module9Challenge/obj/Debug/net8.0/Module9Challenge.genruntimeconfig.cache
+/workspaces/Modulelab9challenge/Module9Challenge/obj/Debug/net8.0/ref/Module9Challenge.dll
